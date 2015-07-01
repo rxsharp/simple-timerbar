@@ -4,7 +4,6 @@
   background: #484949;
   position: relative;
   margin: auto;
-<<<<<<< HEAD
 }
 
 .shrinking {
@@ -21,10 +20,10 @@
             animation-timing-function: linear;
 /*    animation-delay: 2s; */
     -webkit-animation-iteration-count: 1;
-    how many times 
+    /*how many times it will complete an animation */
             animation-iteration-count: 1;
-    -webkit-animation-direction: alternate;
-            animation-direction: alternate;
+    -webkit-animation-direction: normal;
+            animation-direction: normal;
     background-image: linear-gradient(to right, #f00439, #f28d0d);  
 }
 
@@ -44,6 +43,3 @@
         width: 0%;
       }
   }
-=======
-}
->>>>>>> 571023f71f9966564b4d2272544a148dfed77fbf
