@@ -25,6 +25,7 @@
     -webkit-animation-direction: normal;
             animation-direction: normal;
     background-image: linear-gradient(to right, #f00439, #f28d0d);  
+	-webkit-transform: translateZ(0);
 }
 
 @-webkit-keyframes fillBar {
